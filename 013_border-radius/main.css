@@ -1,0 +1,25 @@
+div{
+    width: 150px;
+    height: 150px;
+    border: 3px solid red;
+    border-radius: 100%;
+    background-image: url("../000_temp/dog.jpeg");
+    background-size: cover;
+}
+img{
+    border-radius: 100%;
+
+
+}
+.dogone{
+border: 10px groove rebeccapurple;
+}
+.dogtwo{
+border: 10px dashed rebeccapurple;
+}
+.dogthree{
+border: 10px dotted rebeccapurple;
+}
+.dogfour {
+border: 10px double rebeccapurple;
+}
