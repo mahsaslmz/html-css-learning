@@ -1,0 +1,13 @@
+h1, h2, h3{
+    font: inherit;
+    vertical-align: baseline;
+    outline: none;
+    box-sizing: border-box;
+}
+#po1{
+color: #ff587a;
+}
+[contenteditable]{
+    color: #0ebfe9;
+    border: 2px dashed #ff587a;
+}
