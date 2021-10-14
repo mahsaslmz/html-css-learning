@@ -1,0 +1,16 @@
+html{
+    background-color: blue;
+}
+body{
+    width: 600px;
+    height: 1000px;
+    background-color: green;
+    border: 5px solid black;
+    margin: 5px 220px;
+    padding:15px;
+}
+img{
+    border-radius: 50%;
+    border: 15px groove yellow;
+    margin: 30px 110px;
+}
